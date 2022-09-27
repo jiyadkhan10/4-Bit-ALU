@@ -35,11 +35,17 @@ And another is <br />
 2. 	Comparator <br />
 
 Addition and Subtraction: <br />
+<br />
 This task is also divided into the two different tasks which are addition and subtraction. <br />
+<br />
 Addition: <br />
+<br />
 For Addition, I take a 4 bit two input and divided it into the four group so that it will perform the task in the one bit operator. And I also made the full adder for each group. I used the two XOR gates for the sum. In the first XOR gate, we take a 0 and B as the input of the first XOR. The output of the first XOR and B is used as the input of the second XOR. Now to check the carry, we will use a two AND gate and one OR gate. The output of the first XOR and 0 is the output of the first AND gate and the output of the second XOR and 0 is the output of the second AND gate. The output of the both AND gate is the input of the OR gate. The result will show that there was a carry or not and utilizers them into the next full adder.   When the last carry is out, the result will show into the 7 Segment BCD. <br />
+<br />
 Subtraction: <br />
+<br />
 For Subtraction, I will take a 4 bit binary and used it. with the same logic gates. But this time, we will take a carry input to use as a selection button. The processor for the subtraction in the circuit is same as I explain in the above part. Only the differences between them is the switch. <br />
+<br />
 
 Note: When the addition is perform, the switch will be 0 and when the subtraction is perform, the switch will be 1. <br />
 
