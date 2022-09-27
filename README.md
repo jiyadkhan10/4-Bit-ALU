@@ -9,6 +9,7 @@ Actually it take two variables in the 4 bit and perform three operations which a
 1. Addition <br />
 2. Subtraction <br />
 3. Comparison <br />
+
 It will perform all the three different operations in a one single circuits and display the output in the LED Screen. <br />
 
 # APPAUTUS: 
@@ -26,9 +27,13 @@ It will perform all the three different operations in a one single circuits and 
 
 # Implementation:
 My circuit of the 4 Bit ALU is very basic. I used the very simple logic gate like AND, OR and NOT gate to execute the output of my circuit. I have my task in two parts. One is <br />
+
 1.	Addition and Subtraction <br />
+
 And another is <br />
+
 2. 	Comparator <br />
+
 Addition and Subtraction: <br />
 This task is also divided into the two different tasks which are addition and subtraction. <br />
 Addition: <br />
